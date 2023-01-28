@@ -1,0 +1,87 @@
+.futer{
+    width: 1081px;
+height: 64px;
+margin: 0 auto;
+position: relative;
+}
+.futer_img{
+    position: absolute;
+left: 32px;
+right: 62.26%;
+top: 20px;
+bottom: 0%;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+background-color: #000000;
+}
+.futer_ptegi{
+    position: absolute;
+width: 72px;
+height: 61px;
+left: 184.5px;
+top: 3.18px;
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 23px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #000000;
+}
+.futer_ptegi1{
+    position: absolute;
+    width: 87px;
+    height: 61px;
+    left: 256.5px;
+    top: 3.18px;
+    
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    
+    color: #000000;
+}
+.futer_ptegi2{
+    position: absolute;
+    width: 87px;
+    height: 61px;
+    left: 356.5px;
+    top: 3.18px;
+    
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    
+    color: #000000;
+}
+.futer_ptegi3{
+    position: absolute;
+    width: 297px;
+    height: 61px;
+    left: 747.5px;
+    top: 3.18px;
+    
+    font-family: 'SourceSansPro';
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    
+    color: #000000;
+}

@@ -1,0 +1,67 @@
+.Header{
+ width: 1081px;
+ margin: 0 auto;
+height: 64px;
+background: #000000;
+flex: none;
+order: 0;
+flex-grow: 0;
+position: relative;
+}
+.header_img1{
+position: absolute;
+left: 32px;
+right: 62.26%;
+top: 20px;
+bottom: 0%;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+color: #FFFFFF;
+}
+.header_ptegi1{
+    position: absolute;
+left: 68.55%;
+right: 20.35%;
+top: 31.25%;
+bottom: 31.25%;
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 23px;
+text-align: center;
+color: #FFFFFF;
+}
+.header_ptegi2{
+    position: absolute;
+left: 79.56%;
+right: 9.34%;
+top: 31.25%;
+bottom: 31.25%;
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 23px;
+text-align: center;
+color: #FFFFFF;
+}
+.header_img2{
+    position: absolute;
+left: 90.93%;
+right: 7.12%;
+top: 35.94%;
+bottom: 37.39%;
+}
+.header_img3{
+ position: absolute;
+left: 94.06%;
+right: 3.68%;
+top: 35.78%;
+bottom: 34.69%;
+}

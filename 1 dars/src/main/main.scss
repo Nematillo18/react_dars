@@ -1,0 +1,45 @@
+.Main{
+width: 1081px;
+height: 498px;
+margin: 0 auto;
+background: #FAE800;
+position: relative;
+}
+.main_img{
+    position: static;
+
+    width: 300.55px;
+    height: 470.23px;
+    left: -94px;
+   margin-top:30px;
+}
+.main_ptegi{
+    position: absolute;
+width: 1000px;
+height: 128px;
+left: 340px;
+top: 84px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 96px;
+line-height: 116px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #000000;
+}
+.main_ptegi1{
+position: absolute;
+width: 500px;
+height: 120px;
+left: 291px;
+top: 214px;
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 23px;
+text-align: center;
+color: #000000;
+}
